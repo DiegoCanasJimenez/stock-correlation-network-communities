@@ -1,0 +1,7 @@
+# Only the final notebook and the README belong in the repository;
+# old versions, copies and exported results stay local.
+/*
+!/.gitignore
+!/README.md
+!/FINAL_SEVERAL_METHODS.ipynb
+.ipynb_checkpoints/
